@@ -1,1 +1,1 @@
-# spring 공부하기
+# Spring framework 공부하기
